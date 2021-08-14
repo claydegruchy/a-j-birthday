@@ -27,6 +27,7 @@ body.night {
 }
 
 .spotify {
+  z-index: 1;
     height: 0px;
     transition: height 4s ease-in;
     transition-delay: 8s;
@@ -4675,6 +4676,7 @@ p {
  */
 
 #layers {
+  z-index: -1;
     height: 200px;
     left: 0;
     overflow: hidden;
