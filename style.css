@@ -29,7 +29,7 @@ body.night {
 .spotify {
     height: 0px;
     transition: height 4s ease-in;
-    transition-delay: 4s;
+    transition-delay: 8s;
 
 }
 .spotify.on {
